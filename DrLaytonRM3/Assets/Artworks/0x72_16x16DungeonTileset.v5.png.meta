@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d399b129b16991f4689ffd1eaf5039ef
+guid: 731af296015ca1b4b80d1b18bcc174d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,43 +117,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_0
+      name: cristian
       rect:
         serializedVersion: 2
-        x: 336
-        y: 672
-        width: 48
-        height: 69
+        x: 161
+        y: 0
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d0304a80bf29764ebccb5b129b0bfca
-      internalID: -1396408832
+      spriteID: b82d493815b18da40b16004d4cb3fa07
+      internalID: 690550714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_1
+      name: andrea
       rect:
         serializedVersion: 2
-        x: 192
-        y: 672
-        width: 48
-        height: 66
+        x: 177
+        y: 0
+        width: 15
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 581425007e8d82d4793244e3e679b23e
-      internalID: 933021259
+      spriteID: baaec8f70d9d71f469a5673384ff16f7
+      internalID: 1420892521
       vertices: []
       indices: 
       edges: []
@@ -169,8 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_1: 933021259
-      player_0: -1396408832
+      andrea: 1420892521
+      cristian: 690550714
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
