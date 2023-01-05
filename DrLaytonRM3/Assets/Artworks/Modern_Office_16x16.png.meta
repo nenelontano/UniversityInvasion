@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d399b129b16991f4689ffd1eaf5039ef
+guid: faca20ca047bc2143a7db390154505be
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_0
+      name: pavimento_0
       rect:
         serializedVersion: 2
-        x: 336
-        y: 672
-        width: 48
-        height: 69
+        x: 208
+        y: 768
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,29 +131,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d0304a80bf29764ebccb5b129b0bfca
-      internalID: -1396408832
+      spriteID: 8a022199b36a9ea4aa42c436cb022b77
+      internalID: 608455973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_1
+      name: muro_0
       rect:
         serializedVersion: 2
-        x: 192
-        y: 672
-        width: 48
-        height: 66
+        x: 121
+        y: 756
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 581425007e8d82d4793244e3e679b23e
-      internalID: 933021259
+      spriteID: 2a372da230a4f2b43bc3064478ca4e0a
+      internalID: -718558375
       vertices: []
       indices: 
       edges: []
@@ -169,8 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_1: 933021259
-      player_0: -1396408832
+      muro_0: -718558375
+      pavimento_0: 608455973
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
