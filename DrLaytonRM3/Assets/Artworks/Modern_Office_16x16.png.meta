@@ -120,8 +120,8 @@ TextureImporter:
       name: pavimento_0
       rect:
         serializedVersion: 2
-        x: 208
-        y: 768
+        x: 236
+        y: 239
         width: 16
         height: 16
       alignment: 0
@@ -141,8 +141,29 @@ TextureImporter:
       name: muro_0
       rect:
         serializedVersion: 2
-        x: 121
-        y: 756
+        x: 114
+        y: 755
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a372da230a4f2b43bc3064478ca4e0a
+      internalID: -718558375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 823
         width: 16
         height: 16
       alignment: 0
@@ -152,8 +173,554 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a372da230a4f2b43bc3064478ca4e0a
-      internalID: -718558375
+      spriteID: 2f26b860a29f0614995c21d0d1e935fa
+      internalID: 1051147960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985dffbbb0b9d4489b39120db336e45
+      internalID: 893521865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: murp2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 791
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e44e15a1c13e4e901dd196d3b724f
+      internalID: 1557083461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 775
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4cc6caaf935c049a561fd1edb8f9d6
+      internalID: 1786714540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 823
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6cef99b30d7144af30ca9bda3f733
+      internalID: -1352344743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e2f0f76d12aa47b3be628862712f1
+      internalID: -1343687408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 791
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04815317c6e23ae45b17e6fc1c8d3af5
+      internalID: 1043026100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 823
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5408b9791ed67e4fbd7b48ce7c28fb9
+      internalID: 686064398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7df1e9fabd9cf4586bef8a2de91ab9
+      internalID: 2143871442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 791
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112eeaa30e596b84b88cf8c44cf2a88e
+      internalID: -1061209170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 823
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407f1f6155d0d2408fcdd65e0fa9473
+      internalID: -286012558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987cff507fa2a344399bbb18d4f5df0b
+      internalID: -1179305032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 791
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda736a85524994f8911e8cdced3508
+      internalID: 1292404358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 823
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b64d6127661c1458942533fd6323f3
+      internalID: 1374967407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 807
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668412685d04904fae2b99ed4632b39
+      internalID: -420026690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 791
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a1e26a09a4fa844873e535d134a95b
+      internalID: -908714461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 775
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a88240e530b3d64fb7831a23ec17a21
+      internalID: -599480529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pav0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1916c73d8721f49bb2ae3df2024fac
+      internalID: 1287670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pav1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea95677aa3b90f4ca12875515c90a57
+      internalID: 567983955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pav2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e078a843bde75843b14036f042c5d05
+      internalID: 588669881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pav3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b8b9cba98a2b45adce51bac570b2e
+      internalID: -43808891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampada0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 526
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1b88f1de639947af7fb53e06876ce
+      internalID: 2011881017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampada1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 494
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040ff431b8463f4faeb9432b1fa3efa
+      internalID: 1777598519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontana0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad29d16631a25d42a3052ae9bd66d7a
+      internalID: -367719849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontana1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a08d7fa01de1d48a05354869edb974
+      internalID: 1610563907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontana2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97c2315b223b54ba128ce7894d328f
+      internalID: -2070506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fontana3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83673435685c7c14daf879006cd3382d
+      internalID: 303673129
       vertices: []
       indices: 
       edges: []
@@ -169,8 +736,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      muro15: -908714461
+      muro14: -420026690
+      muro10: -286012558
+      muro13: 1374967407
+      fontana0: -367719849
+      muro1: 893521865
+      muro12: 1292404358
+      lampada0: 2011881017
+      murp2: 1557083461
+      muro5: -1343687408
+      muro0: 1051147960
+      muro6: 1043026100
+      pav1: 567983955
+      muro7: 686064398
+      lampada1: 1777598519
       muro_0: -718558375
+      pav3: -43808891
+      muro4: -1352344743
+      fontana3: 303673129
+      muro8: 2143871442
+      pav0: 1287670708
+      muro3: 1786714540
+      muro9: -1061209170
+      muro11: -1179305032
+      muro16: -599480529
+      pav2: 588669881
+      fontana1: 1610563907
       pavimento_0: 608455973
+      fontana2: -2070506882
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
