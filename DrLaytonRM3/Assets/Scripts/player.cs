@@ -28,6 +28,7 @@ public class player : MonoBehaviour
         else if(moveDelta.x < 0)
             transform.localScale =new Vector3(-1,1,1);
 
+        //make sure we can move in this direction,  by casting a box there firt, if the box returns null, we're free to move
         hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(0, moveDelta.y), Mathf.Abs(moveDelta.y*Time.deltaTime), LayerMask.GetMask("Actor","Blocking"));
         if(hit.collider == null) {
              //make this thing move!!!!
